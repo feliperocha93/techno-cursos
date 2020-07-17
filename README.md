@@ -1,24 +1,5 @@
-# techno-cursos
+### Techno Cursos
 
-## Project setup
-```
-yarn install
-```
+O Techno Cursos é um app didático focado na lib em _Vue Router_. Ele faz parte do curso **\_Vue.js Completo** da escola [Origamid](https://origamid.com).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Anotações:
