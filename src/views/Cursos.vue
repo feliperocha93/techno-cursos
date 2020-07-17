@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>Cursos</h1>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 import Vue from "vue";
 
 export default Vue.extend({
-  name: "Home",
+  name: "Cursos",
   data: () => ({}),
   props: {}
 });
